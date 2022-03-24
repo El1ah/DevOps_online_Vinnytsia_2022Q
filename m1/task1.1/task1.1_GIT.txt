@@ -1,0 +1,16 @@
+cbdbdfe (HEAD -> main, origin/main, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+018ec4b HEAD@{1}: checkout: moving from develop to main
+cbdbdfe (HEAD -> main, origin/main, origin/develop, develop) HEAD@{2}: commit (merge): merge error
+5220018 HEAD@{3}: commit: fix error
+c6c4815 (origin/styles, styles) HEAD@{4}: merge styles: Fast-forward
+cbea464 HEAD@{5}: checkout: moving from styles to develop
+c6c4815 (origin/styles, styles) HEAD@{6}: commit: add styles to index.html
+946a242 HEAD@{7}: commit: add styles
+cbea464 HEAD@{8}: checkout: moving from develop to styles
+cbea464 HEAD@{9}: checkout: moving from images to develop
+e247a64 (origin/images, images) HEAD@{10}: commit: add image source to index.html file
+3fc9df3 HEAD@{11}: commit: add image folder with images in
+cbea464 HEAD@{12}: checkout: moving from develop to images
+cbea464 HEAD@{13}: commit: add index.html file
+018ec4b HEAD@{14}: checkout: moving from main to develop
+018ec4b HEAD@{15}: commit (initial): init commit
